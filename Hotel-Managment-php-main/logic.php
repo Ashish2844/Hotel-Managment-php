@@ -178,7 +178,7 @@ if(isset($_POST['create'])){
   $ins=$myobj->insrtdt($table,$field,$values);
 
   if($ins=="inserted"){
-    echo "Inserted";
+    header("Location:user_signup1.php");
   }
 
 }

@@ -546,3 +546,21 @@ h3{
   font-size:20px;
   font-weight: bold;
 }
+
+.body{
+  background-color: rgb(32,61,112);
+}
+
+.created{
+  border:2px solid rgb(199, 198, 198);
+  box-shadow: -1px -1px 2px 2px rgb(199, 198, 198);;
+  width:500px;
+  height: 200px;
+  margin-left:35%;
+  margin-top:50px;
+  border-radius: 20px;
+  display: inline-block;
+  text-align: center;
+  background-color: rgb(247, 217, 177);
+  padding:10px 0px;
+}
